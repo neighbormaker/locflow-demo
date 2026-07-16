@@ -5,7 +5,7 @@
   },
   "auth": {
     "emailLabel": "Email address",
-    "forgotPassword": "Forgot your password?",
+    "forgotPassword": "Forgot your passphrase?",
     "invalidCredentials": "That email or password doesn't look right.",
     "passwordLabel": "Password",
     "rememberMe": "Remember me",
