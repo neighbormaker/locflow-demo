@@ -6,7 +6,7 @@
   "auth": {
     "emailLabel": "Email address",
     "forgotPassword": "Forgot your password?",
-    "invalidCredentials": "That email or password doesn't look right.",
+    "invalidCredentials": "That email or password doesn't look quite right.",
     "passwordLabel": "Password",
     "rememberMe": "Remember me",
     "signInCta": "Sign in",
