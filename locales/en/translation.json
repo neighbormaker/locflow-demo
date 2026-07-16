@@ -1,0 +1,134 @@
+{
+  "app": {
+    "brandName": "Locflow",
+    "tagline": "Ship your product in every language."
+  },
+  "auth": {
+    "emailLabel": "Email address",
+    "forgotPassword": "Forgot your password?",
+    "invalidCredentials": "That email or password doesn't look right.",
+    "passwordLabel": "Password",
+    "rememberMe": "Remember me",
+    "signInCta": "Sign in",
+    "signInSubtitle": "Welcome back — please enter your details.",
+    "signInTitle": "Sign in to your account",
+    "signOutConfirm": "Are you sure you want to sign out?",
+    "signUpCta": "Create an account",
+    "welcomeBack": "Welcome back, {{name}}!"
+  },
+  "billing": {
+    "cardEnding": "Card ending in {{last4}}",
+    "currentPlan": "You're on the {{plan}} plan",
+    "downloadInvoice": "Download invoice",
+    "invoiceTotal": "Total due: {{amount}}",
+    "nextBillingDate": "Next charge on {{date}}",
+    "paymentFailed": "Your last payment didn't go through.",
+    "upgradeCta": "Upgrade plan"
+  },
+  "common": {
+    "add": "Add",
+    "back": "Back",
+    "cancel": "Cancel",
+    "close": "Close",
+    "confirm": "Confirm",
+    "continue": "Continue",
+    "delete": "Delete",
+    "done": "Done",
+    "edit": "Edit",
+    "loading": "Loading…",
+    "next": "Next",
+    "no": "No",
+    "ok": "OK",
+    "previous": "Previous",
+    "remove": "Remove",
+    "retry": "Retry",
+    "save": "Save",
+    "search": "Search",
+    "submit": "Submit",
+    "yes": "Yes"
+  },
+  "dashboard": {
+    "activeProjects": "You have {{count}} active projects",
+    "completedToday": "Completed today",
+    "greeting": "Good to see you, {{name}}.",
+    "lastUpdated": "Last updated {{time}}",
+    "noActivity": "Nothing to show yet.",
+    "pendingTasks": "Pending tasks",
+    "summaryTitle": "Here's what's happening today",
+    "viewAll": "View all"
+  },
+  "emails": {
+    "resetBody": "We received a request to reset your password.",
+    "resetSubject": "Reset your password",
+    "verifyBody": "Hi {{name}}, please confirm your email to get started.",
+    "verifySubject": "Confirm your email",
+    "welcomeSubject": "Welcome aboard!"
+  },
+  "errors": {
+    "generic": "Something went wrong. Please try again.",
+    "networkError": "Check your connection and try again.",
+    "notFound": "We couldn't find that page.",
+    "serverError": "Our servers hit a snag.",
+    "sessionExpired": "Your session expired. Please sign in again.",
+    "tooManyRequests": "Too many attempts. Try again in {{minutes}} minutes.",
+    "unauthorized": "You don't have permission to view this.",
+    "validationFailed": "Please fix the highlighted fields."
+  },
+  "legal": {
+    "companyLegalName": "Locflow, Inc.",
+    "copyright": "© {{year}} Locflow, Inc. All rights reserved.",
+    "termsHtml": "By continuing you agree to our <1>Terms</1> and <3>Privacy Policy</3>."
+  },
+  "nav": {
+    "billing": "Billing",
+    "dashboard": "Dashboard",
+    "help": "Help",
+    "home": "Home",
+    "logout": "Log out",
+    "notifications": "Notifications",
+    "profile": "Profile",
+    "projects": "Projects",
+    "settings": "Settings",
+    "team": "Team"
+  },
+  "notifications": {
+    "assignedTask": "{{name}} assigned you \"{{task}}\"",
+    "empty": "You're all caught up.",
+    "markAllRead": "Mark all as read",
+    "mentionedYou": "{{name}} mentioned you",
+    "newMessages_one": "You have {{count}} new message",
+    "newMessages_other": "You have {{count}} new messages",
+    "title": "Notifications"
+  },
+  "onboarding": {
+    "finishCta": "Finish setup",
+    "skip": "Skip for now",
+    "step1Body": "Install the app on the repo you want to localize.",
+    "step1Title": "Connect your repository",
+    "step2Body": "Choose the locales you want to ship in.",
+    "step2Title": "Add your languages",
+    "welcomeHtml": "Welcome to <1>Locflow</1>, {{name}}!"
+  },
+  "projects": {
+    "archived": "Archived",
+    "createProject": "Create project",
+    "deleteConfirm": "Delete \"{{name}}\"? This can't be undone.",
+    "dueDate": "Due {{date}}",
+    "membersCount_one": "{{count}} member",
+    "membersCount_other": "{{count}} members",
+    "projectDescription": "Description",
+    "projectName": "Project name"
+  },
+  "settings": {
+    "changeAvatar": "Change photo",
+    "darkMode": "Dark mode",
+    "deleteAccount": "Delete account",
+    "deleteAccountWarning": "This permanently deletes your account and all data.",
+    "displayName": "Display name",
+    "emailNotifications": "Email notifications",
+    "language": "Language",
+    "savedSuccess": "Your changes have been saved.",
+    "timezone": "Time zone",
+    "twoFactorAuth": "Two-factor authentication"
+  }
+}

@@ -1,0 +1,19 @@
+# locflow configuration for the demo repo.
+framework: i18next
+
+# Developers author strings in English. The app diffs this catalog between the
+# PR base and head to decide what to translate.
+sourceLocale: en
+
+targetLocales:
+  - fr
+  - de
+  - es
+  - ja
+
+catalogPathPattern: locales/{locale}/translation.json
+
+# These keys are brand/legal names — never send them to the translator.
+doNotTranslate:
+  - app.brandName
+  - legal.companyLegalName
