@@ -1,1 +1,5 @@
-{}
+{
+  "auth": {
+    "invalidCredentials": "Diese E-Mail-Adresse oder das Passwort scheint nicht ganz richtig zu sein."
+  }
+}
