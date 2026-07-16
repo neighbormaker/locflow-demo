@@ -1,1 +1,5 @@
-{}
+{
+  "auth": {
+    "forgotPassword": "Vous avez oublié votre phrase secrète ?"
+  }
+}
